@@ -1,0 +1,136 @@
+.e {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.e h1 {
+  color: rgb(37, 61, 78);
+  font-family: Quicksand;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 38.4px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.e1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.e1 p {
+  color: rgb(59, 183, 126);
+  font-family: Quicksand;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.e1 h4 {
+  color: rgb(37, 61, 78);
+  font-family: Quicksand;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.e3 {
+  max-width: 246px;
+  border: 1px solid rgb(236, 236, 236);
+  border-radius: 15px;
+  padding: 21px;
+}
+.e6 {
+  width: 246px;
+  height: 246px;
+}
+.e3 p {
+  color: rgb(173, 173, 173);
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 5px;
+}
+.e3 h1 {
+  color: rgb(43, 43, 45);
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.48px;
+  text-align: left;
+  margin-top: 10px;
+}
+.e4 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.e4 span {
+  color: rgb(182, 182, 182);
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.e5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.e7 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.e5 h3 {
+  color: rgb(59, 183, 126);
+  font-family: Quicksand;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.e5 h4 {
+  color: rgb(173, 173, 173);
+  font-family: Quicksand;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  text-decoration-line: line-through;
+}
+.e5 button {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 4px;
+  background: rgb(245, 62, 50);
+  padding: 10px 20px;
+  border-style: none;
+  cursor: pointer;
+}
+.e5 button h2 {
+  color: rgb(255, 255, 255);
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0%;
+}
+.e2 {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 44px;
+}
